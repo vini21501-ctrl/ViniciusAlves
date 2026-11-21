@@ -10,7 +10,7 @@ Sem framework, sem build, sem dependências — só HTML, CSS e JavaScript.
 
 ## 🚀 Acesso
 
-**Demo:** `https://vini21501-ctrl.github.io/<nome-do-repositorio>/`
+**Demo:** [Portifolio](https://vini21501-ctrl.github.io/ViniciusAlves/)
 
 ## 📄 O que tem no site
 
@@ -53,8 +53,8 @@ A logo, o favicon e a imagem de prévia do Lendaverso estão embutidos no `index
 ## 💻 Rodando localmente
 
 ```bash
-git clone https://github.com/vini21501-ctrl/<nome-do-repositorio>.git
-cd <nome-do-repositorio>
+git clone https://vini21501-ctrl.github.io/ViniciusAlves/.git
+cd ViniciusAlves
 
 # basta abrir o index.html no navegador, ou servir a pasta:
 npx serve .
@@ -64,7 +64,7 @@ npx serve .
 
 1. Crie um repositório e envie os três arquivos.
 2. Em **Settings → Pages**, selecione a branch `main` e a pasta `/ (root)`.
-3. Salve: a página entra no ar em `https://vini21501-ctrl.github.io/<nome-do-repositorio>/`.
+3. Salve: a página entra no ar em `https://vini21501-ctrl.github.io/ViniciusAlves/`.
 
 ## 📱 Responsividade
 
